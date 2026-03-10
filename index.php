@@ -25,6 +25,10 @@
         <main>
             Pagina principal
             <br>
+            <br>
+            <br>
+            <br>
+            <br>
             <a href="reportes.php">Reporte mensual</a>
             <br>
             <a href="dashboard.php">Dashboard</a>
