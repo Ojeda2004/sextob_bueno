@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <title>index</title>
+        <title>Title</title>
         <!-- Required meta tags -->
         <meta charset="utf-8" />
         <meta
@@ -23,16 +23,15 @@
             <!-- place navbar here -->
         </header>
         <main>
-            Pagina principal
-            <br>
+            <a
+                name=""
+                id=""
+                class="btn btn-primary"
+                href="#"
+                role="button"
+                >Generar Respaldo</a
+            >
             
-            <br>
-            <br>
-            <br>
-            <br>
-            <a href="reportes.php">Reporte mensual</a>
-            <br>
-            <a href="dashboard.php">Dashboard</a>
         </main>
         <footer>
             <!-- place footer here -->
